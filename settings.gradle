@@ -1,0 +1,6 @@
+rootProject.name = 'dop-ddd'
+
+include 'modular-monolith'
+include 'hexagonal'
+include 'hexagonal:domain'
+include 'hexagonal:infrastructure'
